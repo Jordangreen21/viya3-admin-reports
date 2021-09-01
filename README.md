@@ -15,6 +15,7 @@ Some components are only necessary if you have a SAS Job Flow Scheduler license.
 ## Cleanup Utility
 This is a collection of jobs to enable a SAS Administrator to view all the content that has been created 
 by the users in SAS Viya. 
+[Cleanup Utility](https://github.com/Jordangreen21/viya3-admin-reports/tree/main/Content_Cleanup)
 
 ## Job Monitoring
 This is a collection of jobs to allow SAS Administrators to more easily and quickly view scheduled jobs and 
