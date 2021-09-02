@@ -18,5 +18,5 @@ I've created a job to assist in the deletion of content by the users. I designed
 
 After the user has moved all the desired content to their Recycling Bin, they can go to SAS Drive and either permanently delete the content or restore individual items back to the location if they did not intend to delete that content.
 
-![Permanently Delete Content](/recycle_content.png "Delete")![Restore Content](/restore_content.png "Restore")
+![Permanently Delete Content](/recycle_content.png "Delete")|![Restore Content](/restore_content.png "Restore")
 
