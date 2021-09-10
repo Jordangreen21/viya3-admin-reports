@@ -11,7 +11,7 @@ There are depenencies between the code so they must be run in the above order. T
 
 # View Content
 
-TODO
+By creating a [URL Link in Visual Analytics](https://go.documentation.sas.com/doc/en/vacdc/8.5/vareportdata/p0qqtmobryw64un1922tyxumhv4a.htm#p17slquu0nhg4an19rvlurtkgk38), an end user or admin can directly access open content from a report.
 
 # Export Content
 
