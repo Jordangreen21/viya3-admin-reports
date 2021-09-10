@@ -19,7 +19,7 @@ By creating a [URL Link in Visual Analytics](https://go.documentation.sas.com/do
 
 | Report Example | Parameter Passing |
 | ------------- | ------------- |
-![Export Content](/recycle_content.png "Delete")|![Parameter Example](/restore_content.png "Restore")
+![Export Content](/export_content.png "Delete")|![Parameter Example](/Export_Parameters.png "Restore")
 
 
 # Recycle Content
