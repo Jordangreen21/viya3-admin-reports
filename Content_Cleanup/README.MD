@@ -17,6 +17,11 @@ TODO
 
 By creating a [URL Link in Visual Analytics](https://go.documentation.sas.com/doc/en/vacdc/8.5/vareportdata/p0qqtmobryw64un1922tyxumhv4a.htm#p17slquu0nhg4an19rvlurtkgk38), an end user or admin can create a JSON export package directly from a report. The URI of the selected content will be passed into the job and a JSON file will be downloaded to the users local PC. This JSON file can be [re-imported into another environment](https://go.documentation.sas.com/doc/en/calcdc/3.5/calpromotion/n0djzpossyj6rrn1vvi1wfvp2qhp.htm#p1h997oay4wsjon1uby6m99zzhsx).  
 
+| Report Example | Parameter Passing |
+| ------------- | ------------- |
+![Export Content](/recycle_content.png "Delete")|![Parameter Example](/restore_content.png "Restore")
+
+
 # Recycle Content
 In addition to simply being able to view the content created by each user, you can expand access to this report to the individual users to allow them to "clean up" their content. We've all done it... created "Delete Me," "Test," or "...v2" files that just seem to hang around forever. Well, when enough users and time go by, this can cause issues when searching for actual meaningful content that has been created.
 
